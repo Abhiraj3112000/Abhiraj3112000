@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhiraj3112000
 - 👀 I’m interested in Java Web App / Desktop App Development
-- 🌱 I’m currently learning Swing and JavaFX
+- 🌱 I’m currently learning Java Server Side Programming
 - 💞️ I’m looking to collaborate on Java Projects
 - 📫 How to reach me - 1905003@kiit.ac.in
 
