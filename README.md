@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Abhiraj3112000
-- 👀 I’m interested in Web development, Java Web App / Desktop App Development
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on React.js projects.
-- 📫 How to reach me - 1905003@kiit.ac.in
+<h1 align="center">Hi 👋, I'm Abhiraj Chatterjee</h1>
 
-<!---
-Abhiraj3112000/Abhiraj3112000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img alt="Abhiraj3112000's Github stats" src="https://github-readme-stats.vercel.app/api?username=Abhiraj3112000&count_private=true&include_all_commits=true&show_icons=true&bg_color=000000&title_color=E8E500&text_color=F8F2CB&icon_color=9FD410&hide_border=true" />
+  
+  <img alt="Abhiraj3112000's most used languages on GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiraj&langs_count=8&layout=compact&bg_color=000000&title_color=E8E500&text_color=F8F2CB&icon_color=9FD410&hide_border=true&hide=jupyter%20notebook,html" /> 
+</p>
+
+<hr>
+
+<img alt="Abhiraj3112000's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Abhiraj3112000&bg_color=000000&color=E8E500&line=F8F2CB&point=9FD410&hide_border=true" />
