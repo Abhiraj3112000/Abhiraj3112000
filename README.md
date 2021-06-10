@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hey there, I'm Abhiraj <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="34px"></h1>
+<h1 align="center"> Hey there, I am Abhiraj <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="34px"></h1>
 
 <p align="center">
   <img alt="Abhiraj3112000's Github stats" src="https://github-readme-stats.vercel.app/api?username=Abhiraj3112000&count_private=true&include_all_commits=true&show_icons=true&bg_color=000000&title_color=E8E500&text_color=F8F2CB&icon_color=9FD410&hide_border=true" />
