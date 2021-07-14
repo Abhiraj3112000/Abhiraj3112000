@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiraj3112000&langs_count=6&layout=compact&hide_border=true&theme=chartreuse-dark&show_icons=true" alt ="Sayan Bhattacharyya's Most Used Langiages" height="175px">
 </div>
 <hr>
- <img alt="Sayan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Abhiraj3112000&bg_color=000000&color=39FF14&line=FF0&point=F00&hide_border=true" />
+ <img alt="Abhiraj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Abhiraj3112000&bg_color=000000&color=39FF14&line=FF0&point=F00&hide_border=true" />
 <hr>
 <h2 align="left"> Skills </h2>
 <table align="center" width="100">
