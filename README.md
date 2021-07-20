@@ -2,7 +2,7 @@
 # Hey there, I am Abhiraj <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="34px">
 
 <p align="center">
-  <img alt="Abhiraj3112000's Github stats" src="https://github-readme-stats.vercel.app/api?username=Abhiraj3112000&count_private=true&include_all_commits=true&show_icons=true&bg_color=000000&title_color=E8E500&text_color=F8F2CB&icon_color=9FD410&hide_border=true&count_private=true" width="49%"/>
+  <img alt="Abhiraj3112000's Github stats" src="https://github-readme-stats.vercel.app/api?username=Abhiraj3112000&count_private=true&include_all_commits=true&show_icons=true&bg_color=000000&title_color=E8E500&text_color=F8F2CB&icon_color=9FD410&hide_border=true&count_private=true"  width="49%"/>
   <img alt="Abhiraj3112000's most used languages on GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiraj3112000&langs_count=10&layout=compact&bg_color=000000&title_color=E8E500&text_color=F8F2CB&icon_color=9FD410&hide_border=true&hide=jupyter%20notebook,html" width="49%"/> 
 </p>
 
@@ -67,16 +67,16 @@
 </table>
 
 ## Competitive Coding
-  - [CodeChef]()
-  - [CodeForces]()
-  - [LeetCode]()
+  - [CodeChef](https://www.codechef.com/users/a_b_h_i_r_a_j)
+  - [GFG](https://auth.geeksforgeeks.org/user/chatterjeeabhirajofficial/practice/)
+  - [Hacherrank](https://www.hackerrank.com/h1905003)
 
 ## Connect With Me
   - [Mail](mailto:1905003@kiit.ac.in)
-  - [Portfolio]()
+  - [Portfolio](http://aveeqprofile.netlify.app)
 
 ## Social
-  - [LinkedIn]()
-  - [Dev]()
-  - [Facebook]()
-  - [Twitter]()
+  - [LinkedIn](https://www.linkedin.com/in/abhiraj-chatterjee-15415b202/)
+  - [Medium](https://abhiraj3112000.medium.com/)
+  - [Wattpad](https://www.wattpad.com/user/chat_abhiraj)
+  - [Instagram](https://www.instagram.com/chatterjee_abhiraj/)
