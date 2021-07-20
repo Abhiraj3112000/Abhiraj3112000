@@ -6,11 +6,11 @@
   <img alt="Abhiraj3112000's most used languages on GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiraj3112000&langs_count=10&layout=compact&bg_color=000000&title_color=E8E500&text_color=F8F2CB&icon_color=9FD410&hide_border=true&hide=jupyter%20notebook,html" width="49%"/> 
 </p>
 
-- t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
-- The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here,
-- content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum
-- as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy.
-- Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+- 🔭 I’m currently working on various projects usign MERN Stack and Android.
+- 👀 I’m interested in Web Development & Android Development.
+- 💞️ I’m looking to collaborate on any project that'll help me learn new things!
+- 💬 Ask me anything, I'm happy to help!
+- 📫 How to reach me - 1905003@kiit.ac.in
 
 
 <hr>
@@ -43,6 +43,12 @@
       </td>
       <td align='center'>
           <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+      </td>
+     <td align='center'>
+          <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
+      </td>
+     <td align='center'>
+          <img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg">
       </td>
       <td align='center'>
           <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" width="100">
