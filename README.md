@@ -88,7 +88,7 @@
 <table width="100">
   <tr>
       <td align='center' width="200">
-          <img src="https://www.vectorlogo.zone/logos/android/android-official.svg">
+          <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg">
       </td>
   </tr>
 </table>
