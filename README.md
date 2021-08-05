@@ -36,7 +36,7 @@
           <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="100">
       </td>
       <td align='center' width="190">
-          <img src="https://www.vectorlogo.zone/logos/python/java-icon.svg" width="100">
+          <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-icon.svg" width="100">
       </td>
       <td align='center' width="190">
           <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="100">
