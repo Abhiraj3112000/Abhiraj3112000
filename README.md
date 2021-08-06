@@ -47,8 +47,6 @@
   </tr>
 <table>
 
-![Abhiraj's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiraj3112000&langs_count=8&layout=compact&hide_border=true&theme=chartreuse-dark&show_icons=true)
-
 
 ## Skills and Tools
 
