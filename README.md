@@ -121,6 +121,6 @@
 ## Competitive Coding
   - [CodeChef](https://www.codechef.com/users/a_b_h_i_r_a_j)
   - [GFG](https://auth.geeksforgeeks.org/user/chatterjeeabhirajofficial/practice/)
-  - [Hacherrank](https://www.hackerrank.com/h1905003)
+  - [Hackerrank](https://www.hackerrank.com/h1905003)
 
 
