@@ -36,7 +36,7 @@
           <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="100">
       </td>
       <td align='center' width="190">
-          <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" width="150" height="100">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="100">
       </td>
       <td align='center' width="190">
           <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="100">
@@ -47,7 +47,7 @@
   </tr>
 <table>
 
-![Abhiraj's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiraj3112000&langs_count=8&layout=compact&hide_border=true&theme=chartreuse-dark&show_icons=true)
+![Abhiraj's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiraj3112000&langs_count=6&layout=compact&hide_border=true&theme=chartreuse-dark&show_icons=true)
 
 
 ## Skills and Tools
@@ -87,8 +87,8 @@
 ### App Development
 <table width="100">
   <tr>
-      <td align='center' width="200">
-          <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg">
+      <td align='center' width="190">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="70">
       </td>
   </tr>
 </table>
