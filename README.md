@@ -84,11 +84,20 @@
 </tr>
 </table>
 
-### App Development
+<!-- ### App Development
 <table width="100">
   <tr>
       <td align='center' width="190">
           <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="70">
+      </td>
+  </tr>
+</table> -->
+
+### App Development
+<table width="100">
+  <tr>
+      <td align='center' width="200">
+          <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg">
       </td>
   </tr>
 </table>
