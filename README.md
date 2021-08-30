@@ -2,7 +2,7 @@
 
 - I'm Abhiraj Chatterjee from [India](https://en.wikipedia.org/wiki/India), pursuing my [BTech](https://en.wikipedia.org/wiki/Bachelor_of_Technology) in [Computer Science](https://en.wikipedia.org/wiki/Computer_science) from [KIIT University](https://kiit.ac.in/) 🎓
 - I've a good amount of experience in [MERN](https://en.wikipedia.org/wiki/MEAN_(solution_stack)) Stack and [Android](https://en.wikipedia.org/wiki/Android_(operating_system)) development 💻 
-- Currently I'm working on various projects using MERN Stack and Android 👨‍💻
+- Currently I'm working as a Web Develeopment Intern at [COOX](https://www.coox.in/) 💼
 - I’m looking to collaborate on any project that'll help me learn new things! 🤝🏻
 - Visit my [Portfolio](https://aveeqprofile.netlify.app/) 👀
 
