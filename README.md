@@ -2,7 +2,7 @@
 
 - I'm Abhiraj Chatterjee from [India](https://en.wikipedia.org/wiki/India), pursuing my [BTech](https://en.wikipedia.org/wiki/Bachelor_of_Technology) in [Computer Science](https://en.wikipedia.org/wiki/Computer_science) from [KIIT University](https://kiit.ac.in/) 🎓
 - I've a good amount of experience in Web Development and Android development.
-- Currently I'm working on socket programming using C and C++ GUI Development. 💼
+- Currently I'm working on ML,DA and Web Development with React js / NEXT js. 💼
 - I’m looking to collaborate on any project that'll help me learn new things! 🤝🏻
 - Visit my [Portfolio](https://aveeqprofile.netlify.app/) 👀
 
