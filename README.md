@@ -4,7 +4,7 @@
 - I've a good amount of experience in Web Development and Android development.
 - Currently I'm working with Flutter & Dart. 💼
 - I’m looking to collaborate on any project that'll help me learn new things! 🤝🏻
-- Visit my [Portfolio](https://aveeqprofile.netlify.app/) 👀
+- Visit my [Portfolio](https://abhiraj-portfolio.vercel.app/) 👀
 
 ## Connect With Me
 
