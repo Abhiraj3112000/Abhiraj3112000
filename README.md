@@ -12,6 +12,7 @@
 <div>
 <!--     <img src="https://activity-graph.herokuapp.com/graph?username=Abhiraj3112000&theme=chartreuse-dark&hide_border=true&area=true" alt="Abhiraj's Activity Graph" width="100%"> -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhiraj3112000&theme=chartreuse-dark&hide_border=true" alt="Abhiraj's Streak" width="49%">
+    </br>
     <img src="https://github-readme-stats.vercel.app/api?username=Abhiraj3112000&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="Abhiraj's Github Activity" width="50%">
 </div>
 
