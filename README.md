@@ -17,5 +17,3 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Abhiraj3112000&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="Abhiraj's Github Activity" width="50%">
 </div>
 
-![Abhiraj's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiraj3112000&langs_count=6&layout=compact&hide_border=true&theme=chartreuse-dark&show_icons=true)
-
