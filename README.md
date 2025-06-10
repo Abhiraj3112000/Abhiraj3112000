@@ -6,7 +6,7 @@
 [![Wattpad Badge](https://img.shields.io/badge/wattpad-orange)](https://www.wattpad.com/user/chat_abhiraj)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=medium&logoColor=white)](https://abhiraj3112000.medium.com/)
 
-<p align="center">
+<p align="left">
     <img src="https://komarev.com/ghpvc/?username=Abhiraj3112000" alt="Abhiraj3112000" />
 </p>
 <div>
